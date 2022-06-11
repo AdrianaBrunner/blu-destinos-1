@@ -1,0 +1,9 @@
+@font-face {
+    font-family: fonte-lato;
+    src: url(../assets/fonts/Lato-Regular.ttf);
+}
+*{
+    font: 14px fonte-lato;
+    margin: 0;
+    padding: 0;
+}
